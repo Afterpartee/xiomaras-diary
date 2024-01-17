@@ -1,0 +1,24 @@
+img {
+	object-fit:contain;
+	width:1350px;
+	height:800px;}
+
+button {
+	background-color:#ffe2e6;
+	color:#fc6c85;
+	font-size: 20px;
+	width:50%;}
+
+#container {
+	width:560px;
+	height:320px;
+	position: absolute;
+	top: 50%;
+	left:57%;
+	margin-top: -60px;
+	margin-left: -50px;
+	padding:5px;
+	background-color:#fc6c85;}
+
+h2 {
+	color:#fc6c85;}

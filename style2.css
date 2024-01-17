@@ -1,0 +1,35 @@
+img {
+	object-fit:contain;
+	width:1350px;
+	height:800px;}
+
+button {
+	background-color:#ffe2e6;
+	color:#fc6c85;
+	font-size: 20px;
+	width:50%;}
+
+
+#container {
+	width:560px;
+	height:405px;
+	position: absolute;
+	top: 30%;
+	left:12%;
+	margin-top: -60px;
+	margin-left: -50px;
+	padding:5px;
+	background-color:#FFFFFF;}
+#cont {
+	width:700px;
+	height:700px;
+	position: absolute;
+	top: 25%;
+	left:52%;
+	margin-top: -60px;
+	margin-left: -50px;}
+
+h2 {
+	color:#fc6c85;}
+
+
